@@ -1,3 +1,6 @@
+Website: https://covid-19-tracker-bf4da.web.app/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
